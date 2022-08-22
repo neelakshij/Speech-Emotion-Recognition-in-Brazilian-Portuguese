@@ -7,4 +7,4 @@ This repository contains my work done on Speech Emotion Recognition in Brazilian
 
 #### For all corpora analyzed in this work, an improvement of up to 9% in mean accuracy is achieved and the obtained recognition rate indicates that the proposed feature sets show comparatively less biased behavior towards all emotions. Also, we prescribe a combination of different metrics to be used with two cepstral features to obtain a higher recognition rate. Our proposed state of the art Latin multi-corporal model contains few features, and achieves outperforming results with a classical machine learning classifier, compared to previously exercised complex features, algorithms and architectures, by yielding the best recognition rate.
 
-#### _This work is accepted in IJCNN 2022._
+#### _This work is accepted in International Joint Conference on Neural Networks (IJCNN), 2022._
